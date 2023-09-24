@@ -11,9 +11,9 @@
 
 
 ## 目录
-- [AI Dev.](#-Dev.)
+- [Dev.](#-Dev.)
 - [Productivity](#-Productivity)
-- [AI Video](#-Video)
+- [Video](#-Video)
 - [No-code](#-No-code)
 
 
