@@ -17,7 +17,7 @@
 - [No-code](#-No-code)
 
 
-## Dev.
+## AI Dev.
 ### [Replit-Ghostwriter](https://replit.com/site/ghostwriter)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
 Harness the power of Replit’s AI to boost your productivity and creativity. Built into the world's most popular online IDE.
