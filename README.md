@@ -38,4 +38,5 @@ Harness the power of Replit’s AI to boost your productivity and creativity. Bu
 ## 其它
 
 ## 联系
-kylezgq@gmail.com
+Email: kylezgq@gmail.com
+vx: kylezgq
